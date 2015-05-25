@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.coolfore.beecalc" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>BeeCalculator</name>
+    <description>
+       A calculator for bee development dates
+    </description>
+    <author email="brendanpmurray@gmail.com" href="http://coolfore.com">
+        Brendan Murray
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+</widget>
