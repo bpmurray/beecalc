@@ -61,7 +61,7 @@
 
 
    <!---- ICONS ---->
-   <icon src="www/images/beecalc057px.png" />
+   <icon src="images/beecalc057px.png" />
 
    <platform name="android">
       <icon src="www/images/beecalc036px.png" density="ldpi" />
